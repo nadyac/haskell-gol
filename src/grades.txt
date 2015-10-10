@@ -1,0 +1,2 @@
+[(Alice, 70), (Simon, 94), (Henk, 79), (Eddie, 69), (Carly, 95), (Sarah, 77), (Philip, 73)]
+7
